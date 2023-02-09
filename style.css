@@ -40,3 +40,20 @@ aside {
   box-shadow: 5px 0 5px -5px rgba(0,0,0,0.7),
   -5px 0 5px -5px rgba(0,0,0,0.7);
 }
+
+i {
+
+  color : white;
+
+}
+
+ul , ol {
+
+  list-style-type: none; color: white;
+  text-align: justify;
+
+}
+
+i.in{
+  color: black;
+}
