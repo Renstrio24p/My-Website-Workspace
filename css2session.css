@@ -1,0 +1,72 @@
+
+/*
+
+Element Selector
+ID Selector
+Class Selector
+
+*/
+
+
+body {
+
+    background-color:blanchedalmond;
+    margin:0;
+    padding:0;
+
+}
+
+header {
+    background-color: black;
+    padding: 2%;
+    color: white;
+}
+
+.blog-title {
+
+    display:inline-block;
+    width:40%;
+    background-color: green;
+
+}
+
+.navigation {
+    
+    float: right;
+    display:inline-block;
+    width: 40%;
+    background-color: aqua;
+    margin: 0;
+
+}
+
+ul {
+    text-align: top;
+}
+
+ul li {
+
+    margin-left: 20px;
+    margin-right: 5px;
+    float:left;
+    list-style-type: none;
+    padding-top: 0;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    margin: 16px;
+}
+
+footer {
+    height:20vh;
+    background-color: black;
+    color: white;
+    text-align:center;
+}
+
